@@ -15,6 +15,5 @@ npm install
 npm run build
 npm start
 ```
-Serveris bus paleistas šiuo adresu https://localhost:3000.
 
 Gero naudojimosi!
